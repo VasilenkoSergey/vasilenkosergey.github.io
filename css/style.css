@@ -1,0 +1,18 @@
+body {
+    background-color: #3b404e;
+    height: 100vh;
+    display: grid;
+    margin: 0;
+}
+
+.container {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    color: #ffffff;
+}
+
+.container a {
+    color: #ffffff;
+    padding-left: 0.5em;
+}
